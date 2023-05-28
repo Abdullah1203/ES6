@@ -1,0 +1,6 @@
+-First i build a HTML file where i included a <style> and <script>
+- then i created a <div> where i set an id of #clock.
+- in the script i created a function named currentTime();
+- i used the Date() object;
+- i formatted hours for 12hrs format.
+Live server link : https://Abdullah1203.github.io/ES6/
